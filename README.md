@@ -1,0 +1,2 @@
+# WanaCry-Ransomworm
+Ransomware
